@@ -1,0 +1,1 @@
+HEART_MEDICATIONS  = ['Beta Blockers', 'Calcium Channel','Anti-Arrhythmia Agents', 'beta-adrenergic', 'antihypertensive', 'hyperlipid', 'antilipemic', 'angiotensin 2 receptor', 'platelet inhibitor','myocardial infarction','aspirin','platelet aggregation','cholester']
